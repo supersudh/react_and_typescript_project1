@@ -1,7 +1,7 @@
 ## Note
 
 #### Completed branches
-##### feature/skeleton
+[Skeleton Branch](https://github.com/supersudh/react_and_typescript_project1/tree/feature/skeleton)
 
 # Getting Started with Create React App
 
